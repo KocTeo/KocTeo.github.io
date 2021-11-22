@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+body{
+    background-color: #715B64;
+}
+
+#lista-qualidades{
+    font-weight: bold;
+}
+
+.orgulho{
+    font-style: italic;
+    font-size: 20px;
+}
